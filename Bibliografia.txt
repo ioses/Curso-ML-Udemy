@@ -1,0 +1,16 @@
+https://ingenierobeta.com/maldicion-de-la-dimensionalidad/
+
+https://towardsdatascience.com/why-how-and-when-to-apply-feature-selection-e9c69adfabf2
+
+https://towardsdatascience.com/explaining-feature-importance-by-example-of-a-random-forest-d9166011959e
+
+https://towardsdatascience.com/principal-component-analysis-for-dimensionality-reduction-115a3d157bad
+
+https://www.aprendemachinelearning.com/comprende-principal-component-analysis/
+
+https://www.aprendemachinelearning.com/guia-de-aprendizaje/
+
+https://www.kaggle.com/code/dansbecker/data-leakage
+
+https://towardsdatascience.com/feature-selection-techniques-in-machine-learning-with-python-f24e7da3f36e
+
